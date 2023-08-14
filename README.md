@@ -1,8 +1,8 @@
-<div align="center">
+<!--<div align="center">
   
   <h1>Desenvolvedor Web Front-End Junior</h1>
   
-</div>
+</div>-->
 
 ##
 
