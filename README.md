@@ -41,9 +41,9 @@
     <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href = "mailto:matheuss.oliveira@outlook.com.br">
+  <!--<a href = "mailto:matheuss.oliveira@outlook.com.br">
     <img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
+  </a>-->
   
   <a href = "https://open.spotify.com/user/5yv84xco2auf3v33k7fe4bzgs">
     <img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
